@@ -1,10 +1,8 @@
 
 - Simple HTTP Server - Servidor HTTP simples em um unico binário.
-
-https://github.com/TheWaWaR/simple-http-server/releases/tag/v0.8.0
+(https://github.com/TheWaWaR/simple-http-server/releases/tag/v0.8.0)
 
 - LightShot - ferramenta de screenshot para windows e mac.
-
 https://app.prntscr.com/pt-br/index.html
 
 - Open Screen - Ferramenta para captura de tela com recursos avançados (Alternativa ao Cantasia)
