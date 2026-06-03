@@ -1,5 +1,5 @@
 
-*Simple HTTP Server - Servidor HTTP simples em um unico binário.
+**Simple HTTP Server - Servidor HTTP simples em um unico binário.
 https://github.com/TheWaWaR/simple-http-server/releases/tag/v0.8.0
 
 *LightShot - ferramenta de screenshot para windows e mac.
