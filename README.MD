@@ -17,3 +17,6 @@
 
 ### File Unlocker - Desbloquear arquivos em uso pelo windows
 - https://github.com/marianpekar/file-unlocker-for-windows
+
+### Atanua - Simulador de Portas Logicas (Eletronica Digital)
+- https://gvensino.com.br/artigos/simulador-eletronica-digital-atanua/
